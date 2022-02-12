@@ -33,7 +33,7 @@ header {
   /* position: sticky;
   position: -webkit-sticky; */
   top: 0;
-  background-image: url(/Assets/images/herodarkened.jpg);
+  background-image: url(/assets/images/herodarkened.jpg);
   background-color: var(--secondary-color);
   background-size: cover;
   background-attachment: fixed;
@@ -82,7 +82,7 @@ header nav ul li a:hover {
 
 /* Hero Styles */
 .hero {
-  background-image: url(/Assets/images/herodarkened.jpg);
+  background-image: url(/assets/images/herodarkened.jpg);
   background-color: var(--secondary-color);
   background-size: cover;
   background-attachment: fixed;
